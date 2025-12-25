@@ -1,8 +1,8 @@
-version: 1.1.7
+version: 1.1.8
 files:
-  - url: capt_1.1.7_amd64.deb
-    sha512: cXX/ciEq/KpCONXFevqEZflt+rIfD9v14CvFh3lEeD7AdRzj/Hp7TCeTQfDNIC9jNaKYWUXFlg+sl2qxoGArWw==
-    size: 79908312
-path: capt_1.1.7_amd64.deb
-sha512: cXX/ciEq/KpCONXFevqEZflt+rIfD9v14CvFh3lEeD7AdRzj/Hp7TCeTQfDNIC9jNaKYWUXFlg+sl2qxoGArWw==
-releaseDate: '2025-12-22T14:00:58.875Z'
+  - url: capt_1.1.8_amd64.deb
+    sha512: Z9mXi2341cSsV8I2Dn3aK5FLQs4pFj/EOlX0UWv5VTaK99dVakZYyhhZFbLTYi1cWxMn+YPurCLE4wbIyiNrbQ==
+    size: 79910606
+path: capt_1.1.8_amd64.deb
+sha512: Z9mXi2341cSsV8I2Dn3aK5FLQs4pFj/EOlX0UWv5VTaK99dVakZYyhhZFbLTYi1cWxMn+YPurCLE4wbIyiNrbQ==
+releaseDate: '2025-12-25T17:20:29.268Z'
